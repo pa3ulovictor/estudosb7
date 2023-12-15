@@ -1,0 +1,1 @@
+var log ("hello world");
